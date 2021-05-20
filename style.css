@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Text&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Red Hat Text";
+  overflow: hidden;
+}
+.background {
+  width: 1440px;
+  height: 800px;
+}
+.stars {
+  position: absolute;
+}
+.waves {
+  width: 100%;
+  margin-top: -300px;
+  position: absolute;
+}
+.heading {
+  position: absolute;
+  color: #ffffff;
+  margin-top: -700px;
+  margin-left: 430px;
+  word-spacing: 20px;
+  letter-spacing: 10px;
+}
+.countdown {
+  position: absolute;
+  width: 800px;
+  height: 270px;
+
+  margin-top: -650px;
+  margin-left: 320px;
+}
+.box1 {
+  width: 150px;
+  height: 170px;
+  background-color: #343650;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+.box2 {
+  width: 150px;
+  height: 170px;
+  background-color: #343650;
+  margin-left: 180px;
+  margin-top: -210px;
+  border-radius: 10px;
+}
+.box3 {
+  width: 150px;
+  height: 170px;
+  background-color: #343650;
+  margin-left: 360px;
+  margin-top: -210px;
+  border-radius: 10px;
+}
+.box4 {
+  width: 150px;
+  height: 170px;
+  background-color: #343650;
+  margin-left: 540px;
+  margin-top: -210px;
+  border-radius: 10px;
+}
+.caption1 {
+  color: #8486a9;
+  margin-top: 20px;
+  margin-left: 50px;
+  font-family: "Red Hat Text";
+  letter-spacing: 3px;
+}
+.caption2 {
+  color: #8486a9;
+  margin-top: 20px;
+  margin-left: 220px;
+  font-family: "Red Hat Text";
+  letter-spacing: 3px;
+}
+.caption3 {
+  color: #8486a9;
+  margin-top: 20px;
+  margin-left: 395px;
+  font-family: "Red Hat Text";
+  letter-spacing: 3px;
+}
+.caption4 {
+  color: #8486a9;
+  margin-top: 20px;
+  margin-left: 570px;
+  font-family: "Red Hat Text";
+  letter-spacing: 3px;
+}
+.days {
+  text-align: center;
+  color: #fb6087;
+  font-size: 110px;
+  margin-top: 10px;
+}
+.hours {
+  text-align: center;
+  color: #fb6087;
+  font-size: 110px;
+  margin-top: 10px;
+}
+.minutes {
+  text-align: center;
+  color: #fb6087;
+  font-size: 110px;
+  margin-top: 10px;
+}
+.seconds {
+  text-align: center;
+  color: #fb6087;
+  font-size: 110px;
+  margin-top: 10px;
+}
+.connect {
+  position: absolute;
+  margin-top: -230px;
+  margin-left: 600px;
+}
+
+.facebook {
+  margin-right: 25px;
+}
+
+.pinterest {
+  margin-right: 25px;
+}
